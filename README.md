@@ -4,7 +4,7 @@ This project analyzes global trends in AI development, research, and investment 
 
 
 **Data Sources**
-The dataset includes the Global AI Index and seven indicators: Talent, Infrastructure, Operating Environment, Research, Development, Government Strategy, and Commercial. These indicators were weighted and summarized from 143 sub-indicators.
+The dataset includes the Global AI Index https://github.com/PrakrutiRao/Global-AI-Trends/blob/main/AI_index_db.csv and seven indicators: Talent, Infrastructure, Operating Environment, Research, Development, Government Strategy, and Commercial. These indicators were weighted and summarized from 143 sub-indicators.
 
 
 **Methodology**
