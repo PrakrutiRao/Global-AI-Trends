@@ -1,21 +1,28 @@
-The Dataset "AI Global index" includes The Global AI Index itself and seven indicators affecting the Index on 62 countries, as well as general information about the countries (region, cluster, income group and political regime)
-The Global AI Index is the first index to benchmark nations on their level of investment, innovation and implementation of artificial intelligence.
+Global AI Trends
+Project Overview
+This project analyzes global trends in AI development, research, and investment across 62 countries. The data highlights key factors influencing AI adoption, such as talent availability, infrastructure, and government policy.
 
-Talent, Infrastructure and Operating Environment are the factors of AI Implementation group of indicators, which represents the application of artificial intelligence by professionals in various sectors, such as businesses, governments, and communities.
+Data Sources
+The dataset includes the Global AI Index and seven indicators: Talent, Infrastructure, Operating Environment, Research, Development, Government Strategy, and Commercial. These indicators were weighted and summarized from 143 sub-indicators.
 
-Talent indicator focuses on the availability of skilled practitioners for the provision of artificial intelligence solutions.
-Infrastructure indicator focuses on the reliability and scale of access infrastructure, from electricity and internet, to super computing capabilities.
-Operating Environment indicator focuses on the regulatory context, and public opinion surrounding artificial intelligence.
-Research and Development are the factors of Innovation group of indicators, which reflects the progress made in technology and methodology, which signify the potential for artificial intelligence to evolve and improve.
+Methodology
+Data analysis and machine learning models are applied to predict trends, visualize correlations, and rank countries based on AI readiness. Common techniques like classification, regression, and clustering are used for analysis.
 
-Research indicator focuses on the extent of specialist research and researchers; investigating the amount of publications and citations in credible academic journals.
-Development indicator focuses on the development of fundamental platforms and algorithms upon which innovative artificial intelligence projects rely.
-Government Strategy and Commercial are the factors of Investment group of indicators, which reflects financial and procedural commitments to artificial intelligence.
+Key Indicators
+Talent: Measures the availability of AI professionals.
+Infrastructure: Examines access to technology and resources.
+Operating Environment: Focuses on AI regulatory frameworks.
+Research: Assesses research output and publications.
+Development: Tracks advancements in AI algorithms and platforms.
+Government Strategy: Evaluates national AI policies and investments.
+Commercial: Investigates startup activities and AI-related business investments.
+Usage Instructions
+Clone the repository: git clone <repo-url>
+Install dependencies and run Jupyter Notebooks for data exploration and analysis.
+Results
+The analysis shows leading AI nations and identifies potential future AI leaders based on their research output, infrastructure development, and policy-making efforts.
 
-Government Strategy indicator focuses on the depth of commitment from national government to artificial intelligence; investigating spending commitments and national strategies.
-Commercial indicator focuses on the level of startup activity, investment and business initiatives based on artificial intelligence.
-All these seven indicators were calculated by Tortoise Media via weighting and summarizing 143 other indicators.
+Contributing
+Feel free to submit pull requests to improve the models, extend the analysis, or add new features to the project.
 
-The dataset can be used for practicing data cleaning, data visualization, finding correlations between the indexes, Machine Learning (classification, regression, clustering).
 
-The data was used in the analytical article research Artificial Intelligence on the World Stage: Dominant Players and Aspiring Challengers
